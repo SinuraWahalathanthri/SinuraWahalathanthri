@@ -30,9 +30,9 @@ I'm an indie full-stack developer and entrepreneur, building my version of the d
 ---
 
 ### 📊 GitHub Stats
-![Sinura's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinuraw&show_icons=true&theme=radical)  
+![Sinura's GitHub stats](https://github-readme-stats.vercel.app/api?username=SinuraWahalathanthri&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sinuraw&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SinuraWahalathanthri&layout=compact&theme=radical)  
 
 ---
 
