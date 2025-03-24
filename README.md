@@ -1,4 +1,4 @@
-# 🏄‍♂️ Sinura Wahalathanthri
+# 💻 Sinura Wahalathanthri
 
 **`Digital Craftsman (Developer/Entrepreneur/Creator)`**
 
@@ -29,43 +29,19 @@ I'm an indie full-stack developer and entrepreneur, building my version of the d
   <img alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 </p>
 
----
+#
 
-## 📺 Latest YouTube Videos
+### 📺 Latest YouTube Videos
 
-<!-- YOUTUBE-VIDEOS:START -->
-<!-- This section will be automatically updated with your latest YouTube videos -->
-<table>
-  <tr>
-    <td>
-      <a href="https://www.youtube.com/watch?v=VIDEO_ID_1">
-        <img src="https://img.youtube.com/vi/VIDEO_ID_1/hqdefault.jpg" width="250px"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=VIDEO_ID_2">
-        <img src="https://img.youtube.com/vi/VIDEO_ID_2/hqdefault.jpg" width="250px"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://www.youtube.com/watch?v=VIDEO_ID_3">
-        <img src="https://img.youtube.com/vi/VIDEO_ID_3/hqdefault.jpg" width="250px"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=VIDEO_ID_4">
-        <img src="https://img.youtube.com/vi/VIDEO_ID_4/hqdefault.jpg" width="250px"/>
-      </a>
-    </td>
-  </tr>
-</table>
+[![eShop Web Application Overview || 1st Year || 01 Semester || Java Institute || Sinura Wahalathanthri](https://ytcards.demolab.com/?id=vx_4fm_N6QQ&title=eShop+Web+Application+Overview+%7C%7C+1st+Year+%7C%7C+01+Semester+%7C%7C+Java+Institute+%7C%7C+Sinura+Wahalathanthri&lang=en&timestamp=1670380800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=2340 "eShop Web Application Overview || 1st Year || 01 Semester || Java Institute || Sinura Wahalathanthri")](https://www.youtube.com/watch?v=vx_4fm_N6QQ)
+[![React Native Chat Application || Chat Page Part-2 || Sinura Wahalathanthri || Java Institute](https://ytcards.demolab.com/?id=_m33nNp5jwo&title=React+Native+Chat+Application+%7C%7C+Chat+Page+Part-2+%7C%7C+Sinura+Wahalathanthri+%7C%7C+Java+Institute&lang=en&timestamp=1673778800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=856 "React Native Chat Application || Chat Page Part-2 || Sinura Wahalathanthri || Java Institute")](https://www.youtube.com/watch?v=_m33nNp5jwo)
+[![Robot Arm || Robot ARM2.0 | Arduino Programming | Sinura Wahalathanthri | 1st Year | Java Institute](https://ytcards.demolab.com/?id=K3uVNez2H48&title=Robot+Arm+%7C%7C+Robot+ARM2.0+%7C+Arduino+Programming+%7C%7C+Sinura+Wahalathanthri+%7C%7C+1st+Year+%7C%7C+Java+Institute&lang=en&timestamp=1668324660&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=587 "Robot Arm || Robot ARM2.0 | Arduino Programming | Sinura Wahalathanthri | 1st Year | Java Institute")](https://www.youtube.com/watch?v=K3uVNez2H48)
+[![Question Set - 01 || DBMS Question Set Series || Java Institute || Sinura Wahalathanthri](https://ytcards.demolab.com/?id=nYgX6G7WNrs&title=Question+Set+-+01+%7C%7C+DBMS+Question+Set+Series+%7C%7C+Java+Institute+%7C%7C+Sinura+Wahalathanthri&lang=en&timestamp=1617006000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=590 "Question Set - 01 || DBMS Question Set Series || Java Institute || Sinura Wahalathanthri")](https://www.youtube.com/watch?v=nYgX6G7WNrs)
 <!-- YOUTUBE-VIDEOS:END -->
 
 🔔 **[Subscribe for more videos!](https://www.youtube.com/@SinuraWahalathanthri?sub_confirmation=1)**
 
----
+#
 
 ## 📊 GitHub Stats
 
