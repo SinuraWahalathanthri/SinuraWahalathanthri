@@ -39,11 +39,11 @@ I'm an indie full-stack developer and entrepreneur, building my version of the d
 [![Question Set - 01 || DBMS Question Set Series || Java Institute || Sinura Wahalathanthri](https://ytcards.demolab.com/?id=nYgX6G7WNrs&title=Question+Set+-+01+%7C%7C+DBMS+Question+Set+Series+%7C%7C+Java+Institute+%7C%7C+Sinura+Wahalathanthri&lang=en&timestamp=1617006000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=590 "Question Set - 01 || DBMS Question Set Series || Java Institute || Sinura Wahalathanthri")](https://www.youtube.com/watch?v=nYgX6G7WNrs)
 <!-- YOUTUBE-VIDEOS:END -->
 
-🔔 **[Subscribe for more videos!](https://www.youtube.com/@SinuraWahalathanthri?sub_confirmation=1)**
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCf2AdxyhFLGE1DKcTnyefSw?sub_confirmation=1)
 
 #
 
-## 📊 GitHub Stats
+### 📊 Stats
 
 ![Sinura's GitHub stats](https://github-readme-stats.vercel.app/api?username=SinuraWahalathanthri&show_icons=true&theme=gruvbox)
 
