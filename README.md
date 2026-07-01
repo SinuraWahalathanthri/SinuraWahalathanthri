@@ -51,5 +51,3 @@ I'm an indie full-stack developer and entrepreneur, building my version of the d
         <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=13277&timezone=Asia%2FColombo&theme=light">
     </picture>
 </a>
-
-{{ wakatimeDoubleCategoryBar "Languages:" wakatimeData.Languages "Projects:" wakatimeData.Projects 5 }}
