@@ -52,3 +52,4 @@ I'm an indie full-stack developer and entrepreneur, building my version of the d
     </picture>
 </a>
 
+{{ wakatimeDoubleCategoryBar "Languages:" wakatimeData.Languages "Projects:" wakatimeData.Projects 5 }}
