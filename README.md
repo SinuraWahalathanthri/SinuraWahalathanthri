@@ -45,5 +45,10 @@ I'm an indie full-stack developer and entrepreneur, building my version of the d
 
 ### 📊 Stats
 
-![Sinura's GitHub stats](https://github-readme-stats.vercel.app/api?username=SinuraWahalathanthri&show_icons=true&theme=gruvbox)
+<a href="https://heatmap.shymike.dev?id=13277&timezone=Asia%2FColombo&standalone=true" title="Click to view detailed data for each day!">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=13277&timezone=Asia%2FColombo&theme=dark">
+        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=13277&timezone=Asia%2FColombo&theme=light">
+    </picture>
+</a>
 
